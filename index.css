@@ -1,7 +1,8 @@
 h1 {
-    color: green;
+    color: purple;
 }
 
 body {
-    background: pink;
+    background: orange;
+    border: 10px solid green;
 }

@@ -3,6 +3,6 @@ h1 {
 }
 
 body {
-    background: orange;
-    border: 10px solid green;
+    background: gold;
+    border: 10px dashed green;
 }

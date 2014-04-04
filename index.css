@@ -3,5 +3,6 @@ h1 {
 }
 
 body {
-    background: seagreen;
+    border: 9px dotted green;
+    background: orange;
 }
